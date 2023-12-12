@@ -1,0 +1,112 @@
+m
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+    width: 100%;
+    height: 100%;
+}
+.nav{
+    width: 100%;
+    height: 10%;
+    /* background-color:white; */
+    padding: 20px;
+    font: size 40px; 
+    
+
+}
+
+.item{
+    font-size: 30px;
+    position: absolute;
+}
+.Menu{
+    left: 3%;
+}
+.NORM{
+    left: 40%;
+}
+.a{
+    position: absolute;
+    left: 83%;
+}
+.b{
+    position: absolute;
+    left: 1%;
+    top: 5%;
+}
+.content{
+     /* background-color: blanchedalmond;  */
+     width: 30%;
+     height: 30%;
+     /* border: 10px solid transparent; */
+}
+h1{
+font-size: 70px;
+position: absolute;
+left: 5%;
+top: 10%;
+letter-spacing: 3px;
+}
+h2{
+    font-size: 50px;
+    position: absolute;
+    left:17%;
+    top: 50%;
+    -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: transparent;
+
+    
+}
+p{
+    position: absolute;
+    left: 40%;
+    top:55% ;
+    width: 25%;
+    height: 10%;
+    /* background-color: blanchedalmond; */
+
+}
+.c{
+    width: 30%;
+    height: 20%;
+    /* background-color: blanchedalmond; */
+}
+h4{
+    position: absolute;
+    left: 74%;
+    top: 54%;
+    width: 20%;
+    height: 20%;
+    /* background-color: blue; */
+}
+
+.box{
+   
+    position: absolute;
+    left: 0;
+    top: 97%;
+   
+}
+.d{
+    font-size: 350px;
+    font-family: Franklin Gothic Medium;
+    position: absolute;
+    left: 77%;
+    top: 5%;
+    -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: transparent;
+
+}
+.e{
+    font-size: 150px;
+    font-family: Franklin Gothic Medium;
+    position: absolute;
+    left: 65%;
+    top: 85%;
+    -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: transparent;
+}
